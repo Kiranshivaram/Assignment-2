@@ -1,0 +1,7 @@
+
+fastapi
+langchain
+transformers
+sqlalchemy
+psycopg2-binary
+uvicorn
